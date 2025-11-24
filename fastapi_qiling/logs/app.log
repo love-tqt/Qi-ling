@@ -1,0 +1,150 @@
+2025-11-05 23:47:40,716 - root - ERROR - 大模型客户端初始化失败: AI_STUDIO_API_KEY 环境变量未设置
+2025-11-05 23:48:22,831 - root - INFO - 请求开始 | ID: 345355ebcef04f0d | 端点: 获取最新消息 | 方法: GET/POST
+2025-11-05 23:48:36,052 - root - INFO - 请求开始 | ID: ba14405ea5a849e1 | 端点: 获取最新消息 | 方法: GET/POST
+2025-11-05 23:48:37,881 - root - INFO - 请求开始 | ID: ceec1e6b6c49471f | 端点: 获取最新消息 | 方法: GET/POST
+2025-11-05 23:48:46,387 - root - INFO - 请求开始 | ID: 3f4e0ac01ead4180 | 端点: 用户登录 | 方法: GET/POST
+2025-11-05 23:48:58,221 - root - INFO - 请求开始 | ID: 46f3fef8d704496b | 端点: 用户注册 | 方法: GET/POST
+2025-11-05 23:50:35,765 - root - INFO - 大模型客户端初始化成功
+2025-11-05 23:50:44,439 - root - INFO - 请求开始 | ID: 420384b4bce64358 | 端点: 用户注册 | 方法: GET/POST
+2025-11-05 23:53:51,206 - root - INFO - 大模型客户端初始化成功
+2025-11-05 23:53:56,128 - root - INFO - 请求开始 | ID: 3ee96ad957e243a9 | 端点: 用户注册 | 方法: GET/POST
+2025-11-05 23:54:17,927 - root - INFO - 请求开始 | ID: 2795f94b468c455f | 端点: 用户登录 | 方法: GET/POST
+2025-11-05 23:54:19,667 - root - INFO - 请求开始 | ID: 249472a58c684057 | 端点: 获取最新消息 | 方法: GET/POST
+2025-11-05 23:54:25,284 - root - INFO - 请求开始 | ID: afe2b6a5cb484b31 | 端点: 发送消息 | 方法: GET/POST
+2025-11-05 23:54:34,010 - root - INFO - 成功保存消息，用户ID: 111855530586144770, 角色: user, 内容长度: 82
+2025-11-05 23:54:35,164 - root - INFO - 成功保存消息，用户ID: 111855530586144770, 角色: assistant, 内容长度: 322
+2025-11-05 23:56:09,700 - root - INFO - 请求开始 | ID: 6335cd74fd434b25 | 端点: 发送消息 | 方法: GET/POST
+2025-11-05 23:56:38,412 - root - INFO - 成功保存消息，用户ID: 111855530586144770, 角色: user, 内容长度: 82
+2025-11-05 23:56:39,554 - root - INFO - 成功保存消息，用户ID: 111855530586144770, 角色: assistant, 内容长度: 342
+2025-11-05 23:57:27,065 - root - INFO - 请求开始 | ID: 1f84789d926948b2 | 端点: 获取最新消息 | 方法: GET/POST
+2025-11-05 23:57:36,239 - root - INFO - 请求开始 | ID: 071d7bc83d4f43c7 | 端点: 发送消息 | 方法: GET/POST
+2025-11-05 23:57:46,324 - root - INFO - 成功保存消息，用户ID: 111855530586144770, 角色: user, 内容长度: 82
+2025-11-05 23:57:47,467 - root - INFO - 成功保存消息，用户ID: 111855530586144770, 角色: assistant, 内容长度: 437
+2025-11-05 23:58:10,832 - root - INFO - 请求开始 | ID: 3534726539c24fcd | 端点: 获取最新消息 | 方法: GET/POST
+2025-11-05 23:58:23,607 - root - INFO - 请求开始 | ID: a969be70725141de | 端点: 发送消息 | 方法: GET/POST
+2025-11-05 23:58:29,464 - root - INFO - 成功保存消息，用户ID: 111855530586144770, 角色: user, 内容长度: 10
+2025-11-05 23:58:30,605 - root - INFO - 成功保存消息，用户ID: 111855530586144770, 角色: assistant, 内容长度: 631
+2025-11-05 23:59:05,447 - root - INFO - 请求开始 | ID: 1f601f7c497f4d4e | 端点: 用户登录 | 方法: GET/POST
+2025-11-05 23:59:06,866 - root - INFO - 请求开始 | ID: 2c52d88bb4e54198 | 端点: 获取最新消息 | 方法: GET/POST
+2025-11-05 23:59:11,856 - root - INFO - 请求开始 | ID: e37e269f65c44874 | 端点: 发送消息 | 方法: GET/POST
+2025-11-05 23:59:25,388 - root - INFO - 成功保存消息，用户ID: 111855530586144770, 角色: user, 内容长度: 82
+2025-11-05 23:59:26,600 - root - INFO - 成功保存消息，用户ID: 111855530586144770, 角色: assistant, 内容长度: 940
+2025-11-06 20:36:35,850 - root - INFO - 大模型客户端初始化成功
+2025-11-06 20:36:41,425 - root - INFO - 请求开始 | ID: 36e9fc1598174fee | 端点: 获取最新消息 | 方法: GET/POST
+2025-11-06 20:36:51,140 - root - INFO - 请求开始 | ID: 6de9f93988b74061 | 端点: 发送消息 | 方法: GET/POST
+2025-11-06 20:36:59,712 - root - INFO - 成功保存消息，用户ID: 111855530586144770, 角色: user, 内容长度: 82
+2025-11-06 20:37:00,878 - root - INFO - 成功保存消息，用户ID: 111855530586144770, 角色: assistant, 内容长度: 322
+2025-11-23 17:33:42,608 - root - INFO - 大模型客户端初始化成功
+2025-11-23 17:33:42,616 - artifact_recognition_service - INFO - ✓ ERNIE客户端初始化成功
+2025-11-23 17:33:42,616 - root - INFO - 文物识别服务初始化成功
+2025-11-23 17:33:49,112 - vector_db_service - INFO - ✓ 词嵌入模型加载成功
+2025-11-23 17:33:49,112 - vector_db_service - WARNING - ❌ 向量数据库文件不存在
+2025-11-23 17:33:49,112 - root - INFO - 向量数据库不存在，尝试自动构建...
+2025-11-23 17:33:49,112 - root - INFO - 找到Excel文件: c:\Users\栗子\Desktop\qiling\fastapi_qiling\故宫博物院数字文物库.xlsx，开始构建向量数据库...
+2025-11-23 17:33:49,113 - root - INFO - ⚠️  首次构建可能需要几分钟时间，请耐心等待...
+2025-11-23 17:33:49,113 - vector_db_service - INFO - 正在读取Excel文件: c:\Users\栗子\Desktop\qiling\fastapi_qiling\故宫博物院数字文物库.xlsx
+2025-11-23 17:33:49,229 - vector_db_service - INFO - ✓ 成功读取 9 条文物数据
+2025-11-23 17:33:49,229 - vector_db_service - INFO - 开始处理数据...
+2025-11-23 17:33:49,230 - vector_db_service - INFO - ✓ 处理完成，共 9 条有效文物数据
+2025-11-23 17:33:49,230 - vector_db_service - INFO - 正在生成向量嵌入...
+2025-11-23 17:33:49,500 - vector_db_service - INFO - 正在构建FAISS索引...
+2025-11-23 17:33:49,500 - vector_db_service - ERROR - ❌ 构建向量数据库时出错: Error in __cdecl faiss::FileIOWriter::FileIOWriter(const char *) at D:\a\faiss-wheels\faiss-wheels\faiss\faiss\impl\io.cpp:98: Error: 'f' failed: could not open c:\Users\栗子\Desktop\qiling\fastapi_qiling\data\vector_db\faiss.index for writing: No such file or directory
+2025-11-23 17:33:49,501 - root - WARNING - ⚠️  向量数据库构建失败，相关功能可能无法使用
+2025-11-23 17:33:49,501 - root - WARNING -    您可以通过 API 接口 /api/vector-db/build 手动构建
+2025-11-23 17:35:09,069 - root - INFO - 大模型客户端初始化成功
+2025-11-23 17:35:09,077 - artifact_recognition_service - INFO - ✓ ERNIE客户端初始化成功
+2025-11-23 17:35:09,077 - root - INFO - 文物识别服务初始化成功
+2025-11-23 17:35:15,563 - vector_db_service - INFO - ✓ 词嵌入模型加载成功
+2025-11-23 17:35:15,563 - vector_db_service - WARNING - ❌ 向量数据库文件不存在
+2025-11-23 17:35:15,563 - root - INFO - 向量数据库不存在，尝试自动构建...
+2025-11-23 17:35:15,563 - root - INFO - 找到Excel文件: c:\Users\栗子\Desktop\qiling\fastapi_qiling\故宫博物院数字文物库.xlsx，开始构建向量数据库...
+2025-11-23 17:35:15,563 - root - INFO - ⚠️  首次构建可能需要几分钟时间，请耐心等待...
+2025-11-23 17:35:15,563 - vector_db_service - INFO - 正在读取Excel文件: c:\Users\栗子\Desktop\qiling\fastapi_qiling\故宫博物院数字文物库.xlsx
+2025-11-23 17:35:15,675 - vector_db_service - INFO - ✓ 成功读取 9 条文物数据
+2025-11-23 17:35:15,676 - vector_db_service - INFO - 开始处理数据...
+2025-11-23 17:35:15,677 - vector_db_service - INFO - ✓ 处理完成，共 9 条有效文物数据
+2025-11-23 17:35:15,677 - vector_db_service - INFO - 正在生成向量嵌入...
+2025-11-23 17:35:15,941 - vector_db_service - INFO - 正在构建FAISS索引...
+2025-11-23 17:35:15,941 - vector_db_service - ERROR - ❌ 构建向量数据库时出错: Error in __cdecl faiss::FileIOWriter::FileIOWriter(const char *) at D:\a\faiss-wheels\faiss-wheels\faiss\faiss\impl\io.cpp:98: Error: 'f' failed: could not open c:\Users\栗子\Desktop\qiling\fastapi_qiling\data\vector_db\faiss.index for writing: No such file or directory
+2025-11-23 17:35:15,944 - root - WARNING - ⚠️  向量数据库构建失败，相关功能可能无法使用
+2025-11-23 17:35:15,944 - root - WARNING -    您可以通过 API 接口 /api/vector-db/build 手动构建
+2025-11-23 17:36:16,557 - root - INFO - 大模型客户端初始化成功
+2025-11-23 17:36:16,564 - artifact_recognition_service - INFO - ✓ ERNIE客户端初始化成功
+2025-11-23 17:36:16,564 - root - INFO - 文物识别服务初始化成功
+2025-11-23 17:36:23,059 - vector_db_service - INFO - ✓ 词嵌入模型加载成功
+2025-11-23 17:36:23,059 - vector_db_service - WARNING - ❌ 向量数据库文件不存在
+2025-11-23 17:36:23,059 - root - INFO - 向量数据库不存在，尝试自动构建...
+2025-11-23 17:36:23,059 - root - INFO - 找到Excel文件: c:\Users\栗子\Desktop\qiling\fastapi_qiling\故宫博物院数字文物库.xlsx，开始构建向量数据库...
+2025-11-23 17:36:23,059 - root - INFO - ⚠️  首次构建可能需要几分钟时间，请耐心等待...
+2025-11-23 17:36:23,060 - vector_db_service - INFO - 正在读取Excel文件: c:\Users\栗子\Desktop\qiling\fastapi_qiling\故宫博物院数字文物库.xlsx
+2025-11-23 17:36:23,172 - vector_db_service - INFO - ✓ 成功读取 9 条文物数据
+2025-11-23 17:36:23,172 - vector_db_service - INFO - 开始处理数据...
+2025-11-23 17:36:23,172 - vector_db_service - INFO - ✓ 处理完成，共 9 条有效文物数据
+2025-11-23 17:36:23,173 - vector_db_service - INFO - 正在生成向量嵌入...
+2025-11-23 17:36:23,444 - vector_db_service - INFO - 正在构建FAISS索引...
+2025-11-23 17:36:23,445 - vector_db_service - INFO - ✓ 确认目录存在: c:\Users\栗子\Desktop\qiling\fastapi_qiling\data\vector_db
+2025-11-23 17:36:23,445 - vector_db_service - INFO - 正在保存索引到: c:\Users\栗子\Desktop\qiling\fastapi_qiling\data\vector_db\faiss.index
+2025-11-23 17:36:23,446 - vector_db_service - ERROR - ❌ 构建向量数据库时出错: Error in __cdecl faiss::FileIOWriter::FileIOWriter(const char *) at D:\a\faiss-wheels\faiss-wheels\faiss\faiss\impl\io.cpp:98: Error: 'f' failed: could not open c:\Users\栗子\Desktop\qiling\fastapi_qiling\data\vector_db\faiss.index for writing: No such file or directory
+2025-11-23 17:36:23,448 - root - WARNING - ⚠️  向量数据库构建失败，相关功能可能无法使用
+2025-11-23 17:36:23,448 - root - WARNING -    您可以通过 API 接口 /api/vector-db/build 手动构建
+2025-11-23 17:38:02,873 - root - INFO - 大模型客户端初始化成功
+2025-11-23 17:38:02,873 - artifact_recognition_service - INFO - ✓ ERNIE客户端初始化成功
+2025-11-23 17:38:02,873 - root - INFO - 文物识别服务初始化成功
+2025-11-23 17:38:09,369 - vector_db_service - INFO - ✓ 词嵌入模型加载成功
+2025-11-23 17:38:09,370 - vector_db_service - WARNING - ❌ 向量数据库文件不存在
+2025-11-23 17:38:09,370 - root - INFO - 向量数据库不存在，尝试自动构建...
+2025-11-23 17:38:09,370 - root - INFO - 找到Excel文件: c:\Users\栗子\Desktop\qiling\fastapi_qiling\故宫博物院数字文物库.xlsx，开始构建向量数据库...
+2025-11-23 17:38:09,370 - root - INFO - ⚠️  首次构建可能需要几分钟时间，请耐心等待...
+2025-11-23 17:38:09,370 - vector_db_service - INFO - 正在读取Excel文件: c:\Users\栗子\Desktop\qiling\fastapi_qiling\故宫博物院数字文物库.xlsx
+2025-11-23 17:38:09,471 - vector_db_service - INFO - ✓ 成功读取 9 条文物数据
+2025-11-23 17:38:09,471 - vector_db_service - INFO - 开始处理数据...
+2025-11-23 17:38:09,471 - vector_db_service - INFO - ✓ 处理完成，共 9 条有效文物数据
+2025-11-23 17:38:09,471 - vector_db_service - INFO - 正在生成向量嵌入...
+2025-11-23 17:38:09,730 - vector_db_service - INFO - 正在构建FAISS索引...
+2025-11-23 17:38:09,730 - vector_db_service - INFO - ✓ 确认目录存在: c:\Users\栗子\Desktop\qiling\fastapi_qiling\data\vector_db
+2025-11-23 17:38:09,745 - vector_db_service - INFO - ✓ 目录写入权限测试通过
+2025-11-23 17:38:09,746 - vector_db_service - INFO - 正在保存索引到: c:\Users\栗子\Desktop\qiling\fastapi_qiling\data\vector_db\faiss.index
+2025-11-23 17:38:09,746 - vector_db_service - ERROR - ❌ 保存索引文件失败: Error in __cdecl faiss::FileIOWriter::FileIOWriter(const char *) at D:\a\faiss-wheels\faiss-wheels\faiss\faiss\impl\io.cpp:98: Error: 'f' failed: could not open c:\Users\栗子\Desktop\qiling\fastapi_qiling\data\vector_db\faiss.index for writing: No such file or directory
+2025-11-23 17:38:09,746 - vector_db_service - ERROR -    文件路径: c:\Users\栗子\Desktop\qiling\fastapi_qiling\data\vector_db\faiss.index
+2025-11-23 17:38:09,747 - vector_db_service - ERROR -    绝对路径: c:\Users\栗子\Desktop\qiling\fastapi_qiling\data\vector_db\faiss.index
+2025-11-23 17:38:09,747 - vector_db_service - ERROR - ❌ 构建向量数据库时出错: Error in __cdecl faiss::FileIOWriter::FileIOWriter(const char *) at D:\a\faiss-wheels\faiss-wheels\faiss\faiss\impl\io.cpp:98: Error: 'f' failed: could not open c:\Users\栗子\Desktop\qiling\fastapi_qiling\data\vector_db\faiss.index for writing: No such file or directory
+2025-11-23 17:38:09,749 - root - WARNING - ⚠️  向量数据库构建失败，相关功能可能无法使用
+2025-11-23 17:38:09,749 - root - WARNING -    您可以通过 API 接口 /api/vector-db/build 手动构建
+2025-11-23 17:39:42,965 - root - INFO - 大模型客户端初始化成功
+2025-11-23 17:39:42,981 - artifact_recognition_service - INFO - ✓ ERNIE客户端初始化成功
+2025-11-23 17:39:42,981 - root - INFO - 文物识别服务初始化成功
+2025-11-23 17:39:49,445 - vector_db_service - INFO - ✓ 词嵌入模型加载成功
+2025-11-23 17:39:49,445 - vector_db_service - WARNING - ❌ 向量数据库文件不存在
+2025-11-23 17:39:49,445 - root - INFO - 向量数据库不存在，尝试自动构建...
+2025-11-23 17:39:49,445 - root - INFO - 找到Excel文件: c:\Users\栗子\Desktop\qiling\fastapi_qiling\故宫博物院数字文物库.xlsx，开始构建向量数据库...
+2025-11-23 17:39:49,445 - root - INFO - ⚠️  首次构建可能需要几分钟时间，请耐心等待...
+2025-11-23 17:39:49,445 - vector_db_service - INFO - 正在读取Excel文件: c:\Users\栗子\Desktop\qiling\fastapi_qiling\故宫博物院数字文物库.xlsx
+2025-11-23 17:39:49,559 - vector_db_service - INFO - ✓ 成功读取 9 条文物数据
+2025-11-23 17:39:49,559 - vector_db_service - INFO - 开始处理数据...
+2025-11-23 17:39:49,559 - vector_db_service - INFO - ✓ 处理完成，共 9 条有效文物数据
+2025-11-23 17:39:49,559 - vector_db_service - INFO - 正在生成向量嵌入...
+2025-11-23 17:39:49,830 - vector_db_service - INFO - 正在构建FAISS索引...
+2025-11-23 17:39:49,830 - vector_db_service - INFO - ✓ 确认目录存在: c:\Users\栗子\Desktop\qiling\fastapi_qiling\data\vector_db
+2025-11-23 17:39:49,845 - vector_db_service - INFO - ✓ 目录写入权限测试通过
+2025-11-23 17:39:49,845 - vector_db_service - INFO - 正在保存索引到: c:\Users\栗子\Desktop\qiling\fastapi_qiling\data\vector_db\faiss.index
+2025-11-23 17:39:49,845 - vector_db_service - WARNING - 短路径写入失败，尝试临时文件方法: (2, 'GetShortPathNameW', '系统找不到指定的文件。')
+2025-11-23 17:39:49,846 - vector_db_service - INFO - 尝试使用临时文件方法...
+2025-11-23 17:39:49,847 - vector_db_service - INFO - 临时文件路径: C:\Users\栗子\AppData\Local\Temp\tmpbpdgj1hy.index
+2025-11-23 17:39:49,847 - vector_db_service - ERROR - ❌ 临时文件方法也失败: Error in __cdecl faiss::FileIOWriter::FileIOWriter(const char *) at D:\a\faiss-wheels\faiss-wheels\faiss\faiss\impl\io.cpp:98: Error: 'f' failed: could not open C:\Users\栗子\AppData\Local\Temp\tmpbpdgj1hy.index for writing: Permission denied
+2025-11-23 17:39:49,848 - vector_db_service - ERROR - ❌ 保存索引文件失败: (2, 'GetShortPathNameW', '系统找不到指定的文件。')
+2025-11-23 17:39:49,848 - vector_db_service - ERROR -    文件路径: c:\Users\栗子\Desktop\qiling\fastapi_qiling\data\vector_db\faiss.index
+2025-11-23 17:39:49,848 - vector_db_service - ERROR -    绝对路径: c:\Users\栗子\Desktop\qiling\fastapi_qiling\data\vector_db\faiss.index
+2025-11-23 17:39:49,848 - vector_db_service - ERROR - ❌ 构建向量数据库时出错: Error in __cdecl faiss::FileIOWriter::FileIOWriter(const char *) at D:\a\faiss-wheels\faiss-wheels\faiss\faiss\impl\io.cpp:98: Error: 'f' failed: could not open C:\Users\栗子\AppData\Local\Temp\tmpbpdgj1hy.index for writing: Permission denied
+2025-11-23 17:39:49,850 - root - WARNING - ⚠️  向量数据库构建失败，相关功能可能无法使用
+2025-11-23 17:39:49,850 - root - WARNING -    您可以通过 API 接口 /api/vector-db/build 手动构建
+2025-11-23 18:18:19,610 - root - INFO - 大模型客户端初始化成功
+2025-11-23 18:19:21,272 - root - INFO - 请求开始 | ID: 30e12a659cf844a9 | 端点: 用户登录 | 方法: GET/POST
+2025-11-23 18:19:23,520 - root - INFO - 请求开始 | ID: f49107e7e6b845db | 端点: 获取最新消息 | 方法: GET/POST
+2025-11-23 18:20:36,352 - root - INFO - 请求开始 | ID: fa2aded4cc644acf | 端点: 发送消息 | 方法: GET/POST
+2025-11-23 18:20:40,824 - root - INFO - 成功保存消息，用户ID: 118271535034138625, 角色: user, 内容长度: 82
+2025-11-23 18:20:42,026 - root - INFO - 成功保存消息，用户ID: 118271535034138625, 角色: assistant, 内容长度: 208
+2025-11-23 18:21:39,624 - root - INFO - 请求开始 | ID: 9f16897e66eb463a | 端点: 用户登录 | 方法: GET/POST
+2025-11-23 18:21:41,040 - root - INFO - 请求开始 | ID: 2b89e93c749e4d0a | 端点: 获取最新消息 | 方法: GET/POST
+2025-11-23 18:21:52,723 - root - INFO - 请求开始 | ID: 130fb17f0a9b44a0 | 端点: 发送消息 | 方法: GET/POST
+2025-11-23 18:21:58,018 - root - INFO - 成功保存消息，用户ID: 118271535034138625, 角色: user, 内容长度: 83
+2025-11-23 18:21:59,224 - root - INFO - 成功保存消息，用户ID: 118271535034138625, 角色: assistant, 内容长度: 311

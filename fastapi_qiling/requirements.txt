@@ -1,0 +1,13 @@
+pymysql==1.1.1
+openai>=1.0.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+fastapi>=0.104.0
+uvicorn>=0.24.0
+# 向量数据库相关依赖
+faiss-cpu>=1.7.4
+pandas>=1.5.0
+numpy>=1.23.0
+jieba>=0.42.1
+paddlenlp>=2.5.0
+openpyxl>=3.0.0
